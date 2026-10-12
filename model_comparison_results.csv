@@ -1,0 +1,5 @@
+Algorithm,Training Time (s),Multiclass Accuracy (%),Multiclass Precision,Multiclass Recall,Multiclass F1,Binary Accuracy (%),Binary Precision,Binary Recall,Binary F1
+ANN (original),58.6513,68.3375,0.5595,0.6834,0.5787,71.8417,0.9125,0.5589,0.6932
+Random Forest,22.1682,72.201,0.5728,0.722,0.6197,74.5564,0.9675,0.5723,0.7192
+Decision Tree,3.0449,71.997,0.6356,0.72,0.6315,79.5023,0.963,0.6655,0.7871
+Logistic Regression,253.3312,69.6283,0.5726,0.6963,0.597,73.483,0.919,0.5858,0.7155
